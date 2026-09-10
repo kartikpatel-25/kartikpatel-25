@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi 👋 I'm Kartik
 
-<!--
-**kartikpatel-25/kartikpatel-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student
+💻 C++ | Python | React
+🔭 Currently learning Python
+📂 Check out my projects below
 
-Here are some ideas to get you started:
+## Skills
+- C++
+- Python
+- React
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+1. Expense Split App
+2. Student Management System
+3. Portfolio Website
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/kartik-patel-115ab334a
+Email:    kartikmeena8959@gmail.com
