@@ -1,4 +1,4 @@
-print("Kartik\nkrish\bKP\ravnish")
+print("Kartik\nkrish\bKP\rAvnish")
 '''
 print("12345678")
 print("\tHello")
